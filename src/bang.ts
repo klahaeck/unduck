@@ -2,6 +2,15 @@
 
 export const bangs = [
   {
+    c: "Online Services",
+    d: "search.klehra.com",
+    r: 0,
+    s: "Klehra Search",
+    sc: "Tools",
+    t: "klehra",
+    u: "https://search.klehra.com/search?q={{{s}}}",
+  },
+  {
     c: "AI",
     d: "www.t3.chat",
     r: 0,
