@@ -4,7 +4,7 @@ services:
   unduck:
     build: .
     ports:
-      - "80:80"
+      - "8082:80"
     container_name: unduck-app
     restart: unless-stopped
 
